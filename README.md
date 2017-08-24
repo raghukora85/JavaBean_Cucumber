@@ -1,9 +1,6 @@
 # JavaBean_Cucumber
 JavaBean_Cucumber_Test
 
-What this test will do 
-
-Part 1:
 
 Written a Service layer bean to do the following:
 
